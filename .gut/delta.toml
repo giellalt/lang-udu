@@ -1,0 +1,10 @@
+template = ""
+rev_id = 210
+template_sha = "70467e07657f5fc8727ee9455a0f40101acbe30a"
+
+[replacements]
+__LICENSE__ = "GPLv3"
+__REPO__ = "lang-udu"
+__UND2C__ = "udu"
+__UNDEFINED__ = "Uduk"
+__UND__ = "udu"
