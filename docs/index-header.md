@@ -4,7 +4,7 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-udu%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-udu)](https://github.com/giellalt/lang-udu/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-udu)](https://github.com/giellalt/lang-udu/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-udu/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-udu/main/latest)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-udu?label=CI)](https://builds.giellalt.org/pipelines/lang-udu/builds/latest)
 
 This page documents the work on the **Uduk language model**. 
 
