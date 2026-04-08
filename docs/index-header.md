@@ -5,9 +5,9 @@
 {% include_relative language-map.md %}
 
 <div class="badges" markdown="1">
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-udu%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html) <br/>
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-udu%2Fgh-pages%2Flemmacount.json) <br/>
-[![Speller suggestion quality](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-udu%2Fgh-pages%2Fspellersuggs.json)](typosreport/) <br/>
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-udu%2Fgh-pages%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html) <br/>
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-udu%2Fgh-pages%2Fbadgedata%2Ffst-lemmacount.json) <br/>
+[![Speller suggestion quality](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-udu%2Fgh-pages%2Fbadgedata%2Fspeller-suggestions.json)](typosreport/) <br/>
 [![License](https://img.shields.io/github/license/giellalt/lang-udu)](https://github.com/giellalt/lang-udu/blob/main/LICENSE) <br/>
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-udu)](https://github.com/giellalt/lang-udu/issues) <br/>
 [![Build Status](https://builds.giellalt.org/api/badge/lang-udu?label=CI)](https://builds.giellalt.org/pipelines/lang-udu/builds/latest) <br/>
